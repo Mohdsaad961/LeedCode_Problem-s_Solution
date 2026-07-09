@@ -18,9 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
