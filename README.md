@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
 ## Math
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0002-add-two-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
