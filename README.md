@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
