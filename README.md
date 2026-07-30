@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
