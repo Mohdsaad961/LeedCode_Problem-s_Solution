@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0125-valid-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3517-smallest-palindromic-rearrangement-i) |
