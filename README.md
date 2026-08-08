@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0066-plus-one) |
+| [0283-move-zeroes](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Mohdsaad961/LeedCode_Problem-s_Solution/tree/master/3731-find-missing-elements) |
